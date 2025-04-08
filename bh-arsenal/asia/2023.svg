@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="20" role="img" aria-label="Black Hat Arsenal: Asia 2023">
+    <title>Black Hat Arsenal: Asia 2023</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="189" height="20" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <rect width="124" height="20" fill="#555" />
+        <rect x="124" width="65" height="20" fill="rgba(0,206,252,0.753)" />
+        <rect width="189" height="20" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+        text-rendering="geometricPrecision" font-size="110">
+        <image x="1" y="-1" width="22" height="22"
+            href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4OCIgaGVpZ2h0PSI2MCIgdmlld0JveD0iMCAwIDg4IDYwIiB2ZXJzaW9uPSIxLjEiPjxwYXRoIGQ9Ik0gMjkuOTY5IDEuNDkwIEMgMTMuOTM0IDYuNTk1LCAzLjMwMyAyMi40MTMsIDQuMTg0IDM5Ljg1NCBMIDQuNTcwIDQ3LjUwMCA3LjQyMiA1My43NTAgQyAxMC43MzcgNjEuMDE2LCAxMC40OTkgNjAuOTYwLCAyMi4yNDggNTcuMjU3IEwgMzAuOTk2IDU0LjUwMCAzMC45OTggNTIuODA5IEMgMzAuOTk5IDUxLjg3OSwgMzAuNDgyIDUwLjc5OCwgMjkuODQ5IDUwLjQwNiBMIDI4LjY5NyA0OS42OTUgMzAuNDI4IDQ4LjQyOSBMIDMyLjE1OCA0Ny4xNjQgMzEuMDc5IDQ1LjE0OCBDIDMwLjQ4NiA0NC4wMzksIDMwIDQyLjIxNCwgMzAgNDEuMDk0IEwgMzAgMzkuMDU2IDI1LjA3MiAzNi45MzUgQyAxNy4yMzUgMzMuNTY0LCAxNy42MTAgMzIuMDUyLCAyNy4xMDggMjguNzMzIEMgMjguMDcwIDI4LjM5NywgMjguOTg4IDI2LjQ3OCwgMjkuMzkwIDIzLjk2MCBDIDI5Ljc2MSAyMS42NDQsIDMwLjUxNSAxOC45MDYsIDMxLjA2NyAxNy44NzUgTCAzMi4wNzAgMTYgNDIuNDU4IDE2IEwgNTIuODQ1IDE2IDUzLjg1MSAxOS4yNTAgQyA1NC40MDQgMjEuMDM4LCA1NS4xNDAgMjMuOTE3LCA1NS40ODYgMjUuNjQ5IEwgNTYuMTE1IDI4Ljc5OSA1OS40NTcgMjkuNDI2IEMgNjYuNDA0IDMwLjcyOSwgNjYuMzk5IDM0LjA0MywgNTkuNDQ0IDM3LjAyNCBMIDU1LjEwOSAzOC44ODIgNTMuOTkxIDQzLjAzNCBMIDUyLjg3MyA0Ny4xODYgNTQuNTI3IDQ4LjM5NiBMIDU2LjE4MSA0OS42MDUgNTQuNTkwIDUwLjkyNSBDIDUxLjI3NSA1My42NzYsIDU3LjI5MCA1Ni44NDQsIDcxLjE4MSA1OS42NjMgTCA3My44NjIgNjAuMjA3IDc2LjMzOCA1NS4zMjAgQyA3Ny43MDAgNTIuNjMyLCA3OS4zNTkgNDcuNjY0LCA4MC4wMjUgNDQuMjc5IEwgODEuMjM2IDM4LjEyNSA4MC4xNzkgMzIuMTIzIEMgNzcuOTE2IDE5LjI4MSwgNjkuODExIDguNjAyLCA1OC4yMTggMy4xOTEgTCA1Mi41MDAgMC41MjIgNDMuNTAwIDAuMjg1IEMgMzcuNzkwIDAuMTM1LCAzMi44NDQgMC41NzUsIDI5Ljk2OSAxLjQ5MCIgc3Ryb2tlPSJub25lIiBmaWxsPSIjZmNmY2ZjIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4=" />
+        <text aria-hidden="true" x="720" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)"
+            textLength="970">Black Hat Arsenal</text><text x="720" y="140" transform="scale(.1)" fill="#fff"
+            textLength="970">Black Hat Arsenal</text><text aria-hidden="true" x="1555" y="150" fill="#010101"
+            fill-opacity=".3" transform="scale(.1)" textLength="550">Asia 2023</text><text x="1555" y="140"
+            transform="scale(.1)" fill="#fff" textLength="550">Asia 2023</text>
+    </g>
+</svg>
